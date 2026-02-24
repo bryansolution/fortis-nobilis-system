@@ -1,0 +1,5 @@
+.lessh
+__pycache__/
+*.pyc
+.env
+
